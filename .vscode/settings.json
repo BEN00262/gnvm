@@ -1,0 +1,5 @@
+{
+    "restructuredtext.syntaxHighlighting.disabled": true,
+    "cmake.configureOnOpen": false,
+    "restructuredtext.languageServer.disabled": true
+}
